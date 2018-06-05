@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liuliu/AndroidStudioProjects/test_one/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/liuliu/.android/build-cache/be5e6452fe765ca065edf972e739527dbf6b69f2/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/liuliu/AndroidStudioProjects/test_one/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/liuliu/.android/build-cache/be5e6452fe765ca065edf972e739527dbf6b69f2/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/liuliu/AndroidStudioProjects/test_one/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/liuliu/.android/build-cache/be5e6452fe765ca065edf972e739527dbf6b69f2/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/liuliu/AndroidStudioProjects/test_one/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/liuliu/.android/build-cache/be5e6452fe765ca065edf972e739527dbf6b69f2/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
